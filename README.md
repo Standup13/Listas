@@ -8,6 +8,8 @@
 
 Additional description about the project and its features.
 
+This is a personal list about thing i like to do and eat.
+
 ## Built With
 
 - Major languages
